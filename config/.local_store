@@ -54,5 +54,19 @@
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
+    },
+    "HelloWorld.trigger": {
+        "createdById": "0057F000000TuJtQAK",
+        "createdByName": "Mahesh Kedari",
+        "createdDate": "2017-12-05T13:17:50.000Z",
+        "fileName": "unpackaged/triggers/HelloWorld.trigger",
+        "fullName": "HelloWorld",
+        "id": "01q7F000000aaQEQAY",
+        "lastModifiedById": "0057F000000TuJtQAK",
+        "lastModifiedByName": "Mahesh Kedari",
+        "lastModifiedDate": "2017-12-05T13:17:50.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexTrigger",
+        "mmState": "clean"
     }
 }

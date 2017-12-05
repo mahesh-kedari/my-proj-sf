@@ -174,7 +174,30 @@
         "cls": "folder",
         "select": false,
         "expanded": false,
-        "children": []
+        "children": [
+            {
+                "createdById": "0057F000000TuJtQAK",
+                "createdByName": "Mahesh Kedari",
+                "createdDate": "2017-12-05T13:17:50.000Z",
+                "fileName": "triggers/HelloWorld.trigger",
+                "fullName": "HelloWorld",
+                "id": "ApexTrigger.HelloWorld",
+                "lastModifiedById": "0057F000000TuJtQAK",
+                "lastModifiedByName": "Mahesh Kedari",
+                "lastModifiedDate": "2017-12-05T13:17:50.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexTrigger",
+                "leaf": true,
+                "title": "HelloWorld",
+                "checked": false,
+                "text": "HelloWorld",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            }
+        ]
     },
     {
         "id": "StaticResource",

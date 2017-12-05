@@ -3,3 +3,4 @@
 salesforce.schema
 Referenced Packages
 my-project.sublime-project
+debug/*
