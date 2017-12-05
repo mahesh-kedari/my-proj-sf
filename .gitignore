@@ -4,3 +4,4 @@ salesforce.schema
 Referenced Packages
 my-project.sublime-project
 debug/*
+.sfdx/tools/apex.db
