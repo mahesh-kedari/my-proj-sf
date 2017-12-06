@@ -55,6 +55,20 @@
         "type": "ApexClass",
         "mmState": "clean"
     },
+    "AppleWatch.trigger": {
+        "createdById": "0057F000000TuJtQAK",
+        "createdByName": "Mahesh Kedari",
+        "createdDate": "2017-12-06T06:49:54.000Z",
+        "fileName": "unpackaged/triggers/AppleWatch.trigger",
+        "fullName": "AppleWatch",
+        "id": "01q7F000000abFhQAI",
+        "lastModifiedById": "0057F000000TuJtQAK",
+        "lastModifiedByName": "Mahesh Kedari",
+        "lastModifiedDate": "2017-12-06T06:58:38.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexTrigger",
+        "mmState": "clean"
+    },
     "HelloWorld.trigger": {
         "createdById": "0057F000000TuJtQAK",
         "createdByName": "Mahesh Kedari",
